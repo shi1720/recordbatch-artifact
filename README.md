@@ -1,7 +1,7 @@
 # RecordBatch reproducibility artifact
 
 RecordBatch: Exact Sequential Batch Testing under Unknown Dependence.
-Author: Shivam Gupta. Research candidate, October 2026; not peer reviewed.
+Author: Shivam Gupta. Submitted to CPAIOR 2027 on 12 October 2026; not accepted or peer reviewed yet.
 
 The paper establishes a record-prefix normal form for fixed-marginal,
 unknown-dependence AND batch testing, with additive committed costs and setup.
