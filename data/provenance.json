@@ -1,0 +1,211 @@
+{
+  "repository": "https://github.com/westermo/test-results-dataset",
+  "commit": "31ca0ab802fd2eecf3455c6622c2c18f5b3fe775",
+  "license": "CC BY 4.0",
+  "attribution": "Per Erik Strandberg / Westermo Network Communications AB",
+  "zip_sha256": "7025cc28601fe9aa02095314a297e53059df5bcd9d331749d456b990d8976dd2",
+  "raw_rows": 1063915,
+  "filtered_rows": 472447,
+  "selection": "N sessiontype, M release, results 0 or 1; first 60% of sessions for training; top 12 training-frequency tids with ascending tid ties; complete panels only",
+  "duplicate_rule": "maximum result within session/test",
+  "panels": [
+    {
+      "system": "system11",
+      "total_sessions": 92,
+      "train_complete": 54,
+      "test_complete": 36,
+      "train_failures": 21,
+      "test_failures": 36,
+      "tids": [
+        69,
+        39,
+        40,
+        52,
+        60,
+        61,
+        63,
+        64,
+        67,
+        68,
+        70,
+        71
+      ]
+    },
+    {
+      "system": "system13",
+      "total_sessions": 451,
+      "train_complete": 264,
+      "test_complete": 133,
+      "train_failures": 35,
+      "test_failures": 52,
+      "tids": [
+        70,
+        71,
+        98,
+        113,
+        114,
+        162,
+        110,
+        111,
+        175,
+        187,
+        36,
+        146
+      ]
+    },
+    {
+      "system": "system21",
+      "total_sessions": 198,
+      "train_complete": 116,
+      "test_complete": 62,
+      "train_failures": 4,
+      "test_failures": 41,
+      "tids": [
+        38,
+        61,
+        64,
+        65,
+        70,
+        71,
+        39,
+        60,
+        62,
+        67,
+        68,
+        292
+      ]
+    },
+    {
+      "system": "system28",
+      "total_sessions": 261,
+      "train_complete": 151,
+      "test_complete": 72,
+      "train_failures": 15,
+      "test_failures": 3,
+      "tids": [
+        70,
+        71,
+        98,
+        110,
+        111,
+        113,
+        114,
+        154,
+        238,
+        91,
+        129,
+        130
+      ]
+    },
+    {
+      "system": "system30",
+      "total_sessions": 445,
+      "train_complete": 267,
+      "test_complete": 116,
+      "train_failures": 8,
+      "test_failures": 74,
+      "tids": [
+        60,
+        61,
+        67,
+        69,
+        70,
+        71,
+        91,
+        98,
+        110,
+        111,
+        113,
+        114
+      ]
+    },
+    {
+      "system": "system33",
+      "total_sessions": 426,
+      "train_complete": 253,
+      "test_complete": 131,
+      "train_failures": 12,
+      "test_failures": 151,
+      "tids": [
+        60,
+        61,
+        64,
+        67,
+        69,
+        70,
+        71,
+        72,
+        110,
+        68,
+        92,
+        97
+      ]
+    },
+    {
+      "system": "system46",
+      "total_sessions": 414,
+      "train_complete": 246,
+      "test_complete": 85,
+      "train_failures": 99,
+      "test_failures": 23,
+      "tids": [
+        61,
+        64,
+        67,
+        69,
+        70,
+        71,
+        92,
+        63,
+        68,
+        89,
+        91,
+        93
+      ]
+    },
+    {
+      "system": "system64",
+      "total_sessions": 411,
+      "train_complete": 241,
+      "test_complete": 130,
+      "train_failures": 27,
+      "test_failures": 106,
+      "tids": [
+        60,
+        63,
+        67,
+        69,
+        70,
+        71,
+        177,
+        61,
+        64,
+        68,
+        91,
+        92
+      ]
+    },
+    {
+      "system": "system96",
+      "total_sessions": 169,
+      "train_complete": 101,
+      "test_complete": 32,
+      "train_failures": 32,
+      "test_failures": 78,
+      "tids": [
+        38,
+        39,
+        52,
+        60,
+        61,
+        62,
+        64,
+        65,
+        67,
+        68,
+        101,
+        105
+      ]
+    }
+  ]
+}

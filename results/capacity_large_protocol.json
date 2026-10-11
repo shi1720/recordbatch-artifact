@@ -1,0 +1,16 @@
+{
+  "seed": 30406,
+  "sizes": [24, 32],
+  "replicates_per_size": 5,
+  "probability_units_uniform_integer_inclusive": [50, 950],
+  "denominator": 1000,
+  "costs_uniform_integer_inclusive": [1, 30],
+  "loads_uniform_integer_inclusive": [1, 6],
+  "capacity": 10,
+  "setup": 10,
+  "seconds_per_case": 10,
+  "solver_workers": 1,
+  "solver_seed": 1720406,
+  "generation_order": "for size, then replicate: p, costs, loads",
+  "verification": "seed regenerated all ten CSV instance arrays exactly"
+}

@@ -1,0 +1,22 @@
+{
+  "0.0": {
+    "median_wc_saving_pct": 0.003280630664340486,
+    "median_nominal_premium_pct": 0.0100953036587621,
+    "median_screens": 2.0
+  },
+  "0.1": {
+    "median_wc_saving_pct": 5.351928404065396,
+    "median_nominal_premium_pct": 50.563233246748396,
+    "median_screens": 2.0
+  },
+  "1.0": {
+    "median_wc_saving_pct": 16.11085629551926,
+    "median_nominal_premium_pct": 27.34087083161691,
+    "median_screens": 1.0
+  },
+  "5.0": {
+    "median_wc_saving_pct": 16.22846970716222,
+    "median_nominal_premium_pct": 13.417691630828276,
+    "median_screens": 1.0
+  }
+}

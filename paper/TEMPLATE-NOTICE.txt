@@ -1,0 +1,7 @@
+Official Springer LNCS LaTeX proceedings template, retrieved 11 October 2026.
+llncs.cls version 2.25, 3 September 2026; splncs04.bst supplied unchanged.
+Source:
+https://cms-resources.apps.public.k8s.springernature.io/springer-cms/rest/v1/content/27851904/data/LaTeX2e%20Proceedings%20Template%20ZIP
+
+These third-party files retain their original notices. The repository MIT
+license does not apply to them.
